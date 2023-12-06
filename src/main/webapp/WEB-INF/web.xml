@@ -19,4 +19,14 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>LoginPageC</display-name>
+    <servlet-name>LoginPageC</servlet-name>
+    <servlet-class>com.recovery.lgh.account.LoginPageC</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginPageC</servlet-name>
+    <url-pattern>/LoginPageC</url-pattern>
+  </servlet-mapping>
 </web-app>
