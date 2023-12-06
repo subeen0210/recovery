@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\KMS\Recovery\.metadata\.plugins\org.eclipse.jdt.core
+3899268984.index
+1795459159.index
+1865797976.index
