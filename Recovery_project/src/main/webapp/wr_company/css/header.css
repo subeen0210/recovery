@@ -1,4 +1,4 @@
-/* 원준-헤더 */
+
 
 a {
   text-decoration: none;
@@ -13,7 +13,7 @@ a:hover {
 }
 
 @media only screen and (max-width: 600px) {
-  /* 모바일 화면 스타일 */
+  /* 紐⑤컮�씪 �솕硫� �뒪���씪 */
 }
 
 .active {
@@ -60,7 +60,7 @@ a:hover {
   width: 50px;
 }
 
-/* 우람이형-푸터 */
+
 
 .a-footer {
   text-decoration: none;
@@ -68,11 +68,9 @@ a:hover {
 }
 
 footer {
-  position: fixed;
-  bottom: 0; 
+  position: absolute;
   background-color: #000000;
   padding: 10px;
-  margin: -10px;
   color: white;
   width: 100%;
 }
